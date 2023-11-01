@@ -1,4 +1,6 @@
 # GoCam
-To start project:-
+To run project-
+
 $ "npm install"
+
 $ "npm start"
